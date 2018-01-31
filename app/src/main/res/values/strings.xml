@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Master clean 2018 - speed booster &amp; junk files cleaner</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="phone_booster_admob">ca-app-pub-1333730078271260/5427506566</string>
+    <string name="mode_normal_admob">ca-app-pub-1333730078271260/6559203951</string>
+    <string name="scanning_junk_admob">ca-app-pub-1333730078271260/5607060846</string>
+    <string name="saving_power_admob">ca-app-pub-1333730078271260/9793717869</string>
+    <string name="scanner_cpu_admob">ca-app-pub-1333730078271260/7327336628</string>
+    <string name="on_start_admob">ca-app-pub-1333730078271260/9608039127</string>
+
+    <string name="facebook_app_id">1574865469202855</string>
+
+    <string name="app_metrica">a560117d-ff74-4c9f-acbb-1e05500cab93</string>
+</resources>
